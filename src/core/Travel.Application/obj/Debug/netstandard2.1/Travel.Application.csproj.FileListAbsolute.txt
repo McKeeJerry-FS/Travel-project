@@ -1,0 +1,13 @@
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/bin/Debug/netstandard2.1/Travel.Application.deps.json
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/bin/Debug/netstandard2.1/Travel.Application.dll
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/bin/Debug/netstandard2.1/Travel.Application.pdb
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/bin/Debug/netstandard2.1/Travel.Domain.dll
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/bin/Debug/netstandard2.1/Travel.Domain.pdb
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.csproj.AssemblyReference.cache
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.csproj.CopyComplete
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.dll
+/Users/jerrymckeejr/Desktop/Travel/src/core/Travel.Application/obj/Debug/netstandard2.1/Travel.Application.pdb

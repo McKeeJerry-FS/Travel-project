@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0DB9CA46-96AE-4B02-99B1-B2A1E5B84444}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/presentation/Travel.WebApi/Controllers/v1/TourPackagesController.cs">
+    <Files>
+      <File FileName="src/infrastructure/Travel.Identity/Services/UserService.cs" Line="45" Column="1" />
+      <File FileName="src/infrastructure/Travel.Identity/Helpers/JwtMiddleware.cs" Line="50" Column="81" />
+      <File FileName="src/presentation/Travel.WebApi/Controllers/v1/TourPackagesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Travel" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="core" expanded="True">
+                <Node name="Travel.Application" expanded="True">
+                  <Node name="Dtos" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="infrastructure" expanded="True">
+                <Node name="Travel.Identity" expanded="True">
+                  <Node name="Helpers" expanded="True" />
+                  <Node name="Services" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="presentation" expanded="True">
+                <Node name="Travel.WebApi" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="v1" expanded="True">
+                      <Node name="TourPackagesController.cs" selected="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Extensions" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.presentation.Travel.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

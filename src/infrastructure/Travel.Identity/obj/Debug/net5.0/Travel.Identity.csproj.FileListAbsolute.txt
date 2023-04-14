@@ -1,0 +1,17 @@
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Identity.deps.json
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Identity.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/ref/Travel.Identity.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Identity.pdb
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Application.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Domain.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Application.pdb
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/bin/Debug/net5.0/Travel.Domain.pdb
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.csproj.AssemblyReference.cache
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.AssemblyInfoInputs.cache
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.AssemblyInfo.cs
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.csproj.CoreCompileInputs.cache
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.csproj.CopyComplete
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/ref/Travel.Identity.dll
+/Users/jerrymckeejr/Desktop/Travel/src/infrastructure/Travel.Identity/obj/Debug/net5.0/Travel.Identity.pdb
